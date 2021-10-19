@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thejcannon
+- 👋 Hi, I’m @thejcannon (I'm also @joshua-cannon-techlabs)
 - 👀 I’m interested in Python, especially Python tools and tooling.
 - 🌱 I’m currently learning how to be a father.
 - 💞️ I’m looking to collaborate on things I'm interested in 😄
