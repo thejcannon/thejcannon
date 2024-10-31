@@ -3,6 +3,7 @@
 I believe that in OSS, if you open a bug/feature request you ought to at least attempt to contribute the fix/feature.
 
 https://joshcannon.me/
+
 https://fosstodon.org/@thejcannon
 
 ## Media
